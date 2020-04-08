@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Get help from expert in 15 minutes"; ObjectID = "0p1-0G-n7Q"; */
+"0p1-0G-n7Q.text" = "Get help from expert in 15 minutes";
+
+/* Class = "UILabel"; text = "Tutor"; ObjectID = "XoB-Ch-Nla"; */
+"XoB-Ch-Nla.text" = "Tutor";
+
+/* Class = "UILabel"; text = "Ask Me Anything"; ObjectID = "btH-dH-Cvs"; */
+"btH-dH-Cvs.text" = "Ask Me Anything";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "ecZ-cA-Izg"; */
+"ecZ-cA-Izg.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "o7Q-Hb-x2t"; */
+"o7Q-Hb-x2t.text" = "Student";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "z8G-1P-j6O"; */
+"z8G-1P-j6O.normalTitle" = "Log In";
